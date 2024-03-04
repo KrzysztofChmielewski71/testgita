@@ -3,3 +3,8 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+ public void logowanie za pomocą konta Microsoft() {
+        System.out.println("Podaj email z microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
